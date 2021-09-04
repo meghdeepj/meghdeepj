@@ -1,4 +1,5 @@
-🌱 Incoming Graduate Student at CMU
+🌱 MS-Research Student at CMU
+ Graduate Research Student at Bot Intelligence Group, CMU Robotics Institute
 <!--
 **meghdeepj/meghdeepj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
