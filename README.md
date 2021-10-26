@@ -1,5 +1,5 @@
 🌱 MS-Research Student at CMU \
-🔭  Graduate Student Researcher at Bot Intelligence Group, CMU Robotics Institute
+🔭  Graduate Student Researcher at Bot Intelligence Group, Robotics Institute, CMU SCS
 <!--
 **meghdeepj/meghdeepj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
